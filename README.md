@@ -14,6 +14,8 @@
 <p dir="auto">Everything to control the application is to be found in <a href="https://github.com/SuheylsBusiness/PropertyCrawler/tree/main/bin/Release/net6.0/publish">this folder</a></p>
 <p dir="auto">1) Set the locations to scrape listings from inside 'locationList.txt' that will be found inside the 'Misc' folder.</p>
 <p dir="auto">2) Start 'PropertyCrawler.exe'; whenever the bot is done, a JSON file containing the output inside the 'Output' folder is generated.</p>
+<h1 dir="auto">Usage Video</h1>
+<p dir="auto">See <a href="https://gyazo.com/1c77b638a0f9187513cc253535072824" target="_blank">this short video</a> of starting the application.</p>
 <h1 dir="auto">Credits</h1>
 <p dir="auto">This test project has only been done for scrapingant.com.</p>
 </article>
