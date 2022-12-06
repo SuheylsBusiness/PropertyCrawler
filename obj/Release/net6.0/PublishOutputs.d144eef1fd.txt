@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\PropertyCrawler\bin\Release\net6.0\publish\PropertyCrawler.exe
+C:\Users\Administrator\source\repos\PropertyCrawler\bin\Release\net6.0\publish\PropertyCrawler.dll
+C:\Users\Administrator\source\repos\PropertyCrawler\bin\Release\net6.0\publish\PropertyCrawler.deps.json
+C:\Users\Administrator\source\repos\PropertyCrawler\bin\Release\net6.0\publish\PropertyCrawler.runtimeconfig.json
+C:\Users\Administrator\source\repos\PropertyCrawler\bin\Release\net6.0\publish\PropertyCrawler.pdb
+C:\Users\Administrator\source\repos\PropertyCrawler\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\PropertyCrawler\bin\Release\net6.0\publish\RestSharp.dll
